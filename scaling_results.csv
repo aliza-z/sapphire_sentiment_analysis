@@ -1,0 +1,4 @@
+rows,processing_time_seconds,dataframe_memory_MB,csv_file_size_MB
+2000,0.003,0.786,0.243
+20000,0.0074,7.858,2.43
+200000,0.2246,78.581,24.301
