@@ -1,0 +1,76 @@
+product_id,brand,product_name,product_category,price_pkr,availability_status,data_source
+PR001,Sapphire,Chiffon Formal Suit,Women's Lawn Suit,13320,Limited Stock,Simulated demonstration catalogue
+PR002,Gul Ahmed,Embroidered Cambric Suit,Ready-to-Wear,15690,In Stock,Simulated demonstration catalogue
+PR003,Khaadi,Printed Lawn 3-Piece,Unstitched Suit,13550,In Stock,Simulated demonstration catalogue
+PR004,Gul Ahmed,Cotton 2-Piece,Women's Lawn Suit,3430,In Stock,Simulated demonstration catalogue
+PR005,Gul Ahmed,Ready-to-Wear Kurta,Unstitched Suit,6570,In Stock,Simulated demonstration catalogue
+PR006,Gul Ahmed,Festive 3-Piece Suit,Unstitched Suit,15140,In Stock,Simulated demonstration catalogue
+PR007,Khaadi,Embroidered Lawn Suit,Ready-to-Wear,10450,In Stock,Simulated demonstration catalogue
+PR008,Gul Ahmed,Digital Printed Suit,Unstitched Suit,10920,Limited Stock,Simulated demonstration catalogue
+PR009,Sapphire,Cotton 2-Piece,Unstitched Suit,11500,In Stock,Simulated demonstration catalogue
+PR010,Khaadi,Printed Dupatta Set,Ready-to-Wear,6720,Limited Stock,Simulated demonstration catalogue
+PR011,Khaadi,Festive 3-Piece Suit,Women's Lawn Suit,5710,In Stock,Simulated demonstration catalogue
+PR012,Sapphire,Basic Lawn Shirt,Women's Lawn Suit,6190,In Stock,Simulated demonstration catalogue
+PR013,Gul Ahmed,Chiffon Formal Suit,Women's Lawn Suit,12930,In Stock,Simulated demonstration catalogue
+PR014,Khaadi,Lawn Co-ord Set,Ready-to-Wear,4970,In Stock,Simulated demonstration catalogue
+PR015,Gul Ahmed,Basic Lawn Shirt,Unstitched Suit,9250,In Stock,Simulated demonstration catalogue
+PR016,Sapphire,Ready-to-Wear Kurta,Unstitched Suit,6710,Limited Stock,Simulated demonstration catalogue
+PR017,Gul Ahmed,Embroidered Lawn Suit,Ready-to-Wear,12900,In Stock,Simulated demonstration catalogue
+PR018,Gul Ahmed,Printed Dupatta Set,Women's Lawn Suit,6000,In Stock,Simulated demonstration catalogue
+PR019,Gul Ahmed,Printed Lawn 3-Piece,Women's Lawn Suit,14800,In Stock,Simulated demonstration catalogue
+PR020,Sapphire,Embroidered Cambric Suit,Ready-to-Wear,12380,In Stock,Simulated demonstration catalogue
+PR021,Khaadi,Embroidered Cambric Suit,Unstitched Suit,13300,In Stock,Simulated demonstration catalogue
+PR022,Khaadi,Summer Lawn Suit,Ready-to-Wear,14530,Out of Stock,Simulated demonstration catalogue
+PR023,Sapphire,Festive 3-Piece Suit,Unstitched Suit,6460,In Stock,Simulated demonstration catalogue
+PR024,Gul Ahmed,Embroidered Lawn Suit,Women's Lawn Suit,12670,In Stock,Simulated demonstration catalogue
+PR025,Gul Ahmed,Printed Dupatta Set,Unstitched Suit,5730,In Stock,Simulated demonstration catalogue
+PR026,Sapphire,Printed Lawn 3-Piece,Ready-to-Wear,12090,In Stock,Simulated demonstration catalogue
+PR027,Sapphire,Cotton 2-Piece,Unstitched Suit,4780,In Stock,Simulated demonstration catalogue
+PR028,Sapphire,Summer Lawn Suit,Women's Lawn Suit,9050,In Stock,Simulated demonstration catalogue
+PR029,Khaadi,Cotton 2-Piece,Ready-to-Wear,2740,In Stock,Simulated demonstration catalogue
+PR030,Khaadi,Embroidered Lawn Suit,Unstitched Suit,2850,In Stock,Simulated demonstration catalogue
+PR031,Gul Ahmed,Ready-to-Wear Kurta,Ready-to-Wear,12620,In Stock,Simulated demonstration catalogue
+PR032,Sapphire,Basic Lawn Shirt,Unstitched Suit,10860,Limited Stock,Simulated demonstration catalogue
+PR033,Sapphire,Cotton 2-Piece,Women's Lawn Suit,13210,Limited Stock,Simulated demonstration catalogue
+PR034,Khaadi,Summer Lawn Suit,Unstitched Suit,13400,In Stock,Simulated demonstration catalogue
+PR035,Gul Ahmed,Summer Lawn Suit,Women's Lawn Suit,13490,In Stock,Simulated demonstration catalogue
+PR036,Gul Ahmed,Embroidered Lawn Suit,Ready-to-Wear,15130,In Stock,Simulated demonstration catalogue
+PR037,Gul Ahmed,Festive 3-Piece Suit,Ready-to-Wear,7960,Limited Stock,Simulated demonstration catalogue
+PR038,Gul Ahmed,Embroidered Lawn Suit,Ready-to-Wear,12270,In Stock,Simulated demonstration catalogue
+PR039,Sapphire,Printed Dupatta Set,Unstitched Suit,5030,In Stock,Simulated demonstration catalogue
+PR040,Gul Ahmed,Cotton 2-Piece,Ready-to-Wear,3550,Out of Stock,Simulated demonstration catalogue
+PR041,Khaadi,Embroidered Lawn Suit,Unstitched Suit,5200,Limited Stock,Simulated demonstration catalogue
+PR042,Gul Ahmed,Cotton 2-Piece,Women's Lawn Suit,5490,In Stock,Simulated demonstration catalogue
+PR043,Khaadi,Digital Printed Suit,Women's Lawn Suit,13760,In Stock,Simulated demonstration catalogue
+PR044,Sapphire,Ready-to-Wear Kurta,Women's Lawn Suit,10560,Limited Stock,Simulated demonstration catalogue
+PR045,Khaadi,Digital Printed Suit,Ready-to-Wear,12430,In Stock,Simulated demonstration catalogue
+PR046,Gul Ahmed,Lawn Co-ord Set,Ready-to-Wear,12390,In Stock,Simulated demonstration catalogue
+PR047,Gul Ahmed,Chiffon Formal Suit,Women's Lawn Suit,3770,Limited Stock,Simulated demonstration catalogue
+PR048,Sapphire,Embroidered Cambric Suit,Ready-to-Wear,6900,In Stock,Simulated demonstration catalogue
+PR049,Gul Ahmed,Summer Lawn Suit,Unstitched Suit,6740,In Stock,Simulated demonstration catalogue
+PR050,Gul Ahmed,Embroidered Lawn Suit,Women's Lawn Suit,10280,In Stock,Simulated demonstration catalogue
+PR051,Khaadi,Printed Dupatta Set,Ready-to-Wear,11700,In Stock,Simulated demonstration catalogue
+PR052,Sapphire,Lawn Co-ord Set,Women's Lawn Suit,5610,In Stock,Simulated demonstration catalogue
+PR053,Sapphire,Embroidered Cambric Suit,Ready-to-Wear,5250,Limited Stock,Simulated demonstration catalogue
+PR054,Khaadi,Lawn Co-ord Set,Women's Lawn Suit,5310,Out of Stock,Simulated demonstration catalogue
+PR055,Gul Ahmed,Lawn Co-ord Set,Unstitched Suit,4720,In Stock,Simulated demonstration catalogue
+PR056,Khaadi,Summer Lawn Suit,Women's Lawn Suit,8210,In Stock,Simulated demonstration catalogue
+PR057,Sapphire,Chiffon Formal Suit,Unstitched Suit,6270,In Stock,Simulated demonstration catalogue
+PR058,Gul Ahmed,Lawn Co-ord Set,Unstitched Suit,14560,Limited Stock,Simulated demonstration catalogue
+PR059,Sapphire,Embroidered Lawn Suit,Unstitched Suit,7900,In Stock,Simulated demonstration catalogue
+PR060,Khaadi,Ready-to-Wear Kurta,Unstitched Suit,11520,In Stock,Simulated demonstration catalogue
+PR061,Gul Ahmed,Printed Dupatta Set,Unstitched Suit,8930,In Stock,Simulated demonstration catalogue
+PR062,Sapphire,Printed Dupatta Set,Women's Lawn Suit,11700,Limited Stock,Simulated demonstration catalogue
+PR063,Gul Ahmed,Festive 3-Piece Suit,Unstitched Suit,10140,In Stock,Simulated demonstration catalogue
+PR064,Khaadi,Ready-to-Wear Kurta,Women's Lawn Suit,14300,In Stock,Simulated demonstration catalogue
+PR065,Gul Ahmed,Summer Lawn Suit,Ready-to-Wear,6900,Limited Stock,Simulated demonstration catalogue
+PR066,Sapphire,Ready-to-Wear Kurta,Unstitched Suit,15350,In Stock,Simulated demonstration catalogue
+PR067,Sapphire,Digital Printed Suit,Ready-to-Wear,14200,In Stock,Simulated demonstration catalogue
+PR068,Sapphire,Ready-to-Wear Kurta,Women's Lawn Suit,14620,Limited Stock,Simulated demonstration catalogue
+PR069,Khaadi,Embroidered Lawn Suit,Unstitched Suit,10320,In Stock,Simulated demonstration catalogue
+PR070,Khaadi,Cotton 2-Piece,Ready-to-Wear,10790,In Stock,Simulated demonstration catalogue
+PR071,Khaadi,Chiffon Formal Suit,Women's Lawn Suit,5940,Limited Stock,Simulated demonstration catalogue
+PR072,Gul Ahmed,Lawn Co-ord Set,Ready-to-Wear,5390,Out of Stock,Simulated demonstration catalogue
+PR073,Sapphire,Festive 3-Piece Suit,Women's Lawn Suit,6070,Out of Stock,Simulated demonstration catalogue
+PR074,Gul Ahmed,Ready-to-Wear Kurta,Ready-to-Wear,6440,In Stock,Simulated demonstration catalogue
+PR075,Sapphire,Embroidered Lawn Suit,Ready-to-Wear,11760,In Stock,Simulated demonstration catalogue

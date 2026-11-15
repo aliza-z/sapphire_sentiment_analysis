@@ -1,0 +1,501 @@
+post_id,brand,platform,campaign,content_type,product_category,likes,comments_count,shares,views,days_since_post,post_date,city_focus,source_url,data_source
+P0001,Khaadi,Facebook,New Arrivals,Product Photo,Women's Lawn Suit,204,23,17,2444.0,26,2026-06-03,Faisalabad,,Simulated
+P0002,Gul Ahmed,TikTok,12.12 Winter Edit,Styling Video,Women's Lawn Suit,1475,78,192,25324.0,17,2026-05-14,Multan,,Simulated
+P0003,Gul Ahmed,Facebook,Eid Collection,Product Photo,Women's Lawn Suit,258,48,9,,30,2026-06-13,Sialkot,,Simulated
+P0004,Sapphire,TikTok,Ramadan Collection,Product Photo,Ready-to-Wear,1031,220,88,31445.0,3,2026-05-21,Multan,,Simulated
+P0005,Sapphire,Instagram,Ramadan Collection,Sale Announcement,Unstitched Suit,1006,84,45,13730.0,22,2026-03-13,Multan,,Simulated
+P0006,Gul Ahmed,Instagram,11.11 Sale,Reel,Women's Lawn Suit,1124,107,86,15647.0,24,2026-07-19,Karachi,,Simulated
+P0007,Khaadi,Instagram,Ramadan Collection,Styling Video,Women's Lawn Suit,1180,145,102,18715.0,15,2026-08-27,Faisalabad,,Simulated
+P0008,Sapphire,Instagram,Eid Collection,Reel,Ready-to-Wear,532,96,62,18698.0,30,2026-09-14,Multan,,Simulated
+P0009,Sapphire,Facebook,Mid-Season Sale,Sale Announcement,Unstitched Suit,544,42,26,15555.0,20,2026-08-20,Multan,,Simulated
+P0010,Khaadi,Facebook,11.11 Sale,Reel,Unstitched Suit,869,171,78,20188.0,15,2026-05-14,Lahore,,Simulated
+P0011,Sapphire,TikTok,New Arrivals,Carousel,Women's Lawn Suit,3429,445,219,47813.0,21,2026-08-10,Lahore,,Simulated
+P0012,Sapphire,TikTok,Eid Collection,Product Photo,Ready-to-Wear,857,256,170,24075.0,22,2026-04-02,Multan,,Simulated
+P0013,Khaadi,Instagram,11.11 Sale,Styling Video,Women's Lawn Suit,800,46,79,16018.0,18,2026-02-26,Multan,,Simulated
+P0014,Sapphire,Instagram,11.11 Sale,Influencer Post,Women's Lawn Suit,1122,198,28,24513.0,9,2026-10-05,Sialkot,,Simulated
+P0015,Sapphire,Facebook,Eid Collection,Sale Announcement,Women's Lawn Suit,6104,595,359,75111.0,3,2026-08-31,Faisalabad,,Simulated
+P0016,Gul Ahmed,Instagram,Lawn Launch,Reel,Women's Lawn Suit,1489,90,163,25568.0,1,2026-09-26,Islamabad,,Simulated
+P0017,Sapphire,Facebook,Mid-Season Sale,Styling Video,Ready-to-Wear,405,29,56,,24,2026-06-14,Rawalpindi,,Simulated
+P0018,Sapphire,Instagram,Influencer Edit,Carousel,Women's Lawn Suit,1285,64,21,15840.0,19,2026-06-04,Rawalpindi,,Simulated
+P0019,Gul Ahmed,TikTok,Eid Collection,Sale Announcement,Ready-to-Wear,1879,184,240,33491.0,23,2026-04-11,Rawalpindi,,Simulated
+P0020,Sapphire,Instagram,12.12 Winter Edit,Styling Video,Unstitched Suit,428,137,29,13252.0,1,2026-10-09,Karachi,,Simulated
+P0021,Sapphire,Facebook,Eid Collection,Sale Announcement,Women's Lawn Suit,1794,156,46,21545.0,6,2026-10-08,Islamabad,,Simulated
+P0022,Khaadi,Facebook,11.11 Sale,Reel,Women's Lawn Suit,403,110,73,10902.0,28,2026-07-28,Multan,,Simulated
+P0023,Sapphire,Instagram,Eid Collection,Carousel,Unstitched Suit,2276,406,115,35151.0,12,2026-10-16,Rawalpindi,,Simulated
+P0024,Sapphire,Facebook,Eid Collection,Styling Video,Unstitched Suit,1616,159,164,19486.0,22,2026-02-12,Peshawar,,Simulated
+P0025,Gul Ahmed,TikTok,Ramadan Collection,Reel,Unstitched Suit,1095,212,164,28122.0,4,2026-10-07,Peshawar,,Simulated
+P0026,Sapphire,Instagram,Lawn Launch,Product Photo,Unstitched Suit,232,21,12,4449.0,4,2026-07-15,Multan,,Simulated
+P0027,Khaadi,TikTok,Mid-Season Sale,Reel,Unstitched Suit,3621,264,104,48628.0,2,2026-10-02,Faisalabad,,Simulated
+P0028,Sapphire,Instagram,11.11 Sale,Reel,Ready-to-Wear,1068,90,172,30122.0,17,2026-01-07,Multan,,Simulated
+P0029,Gul Ahmed,Instagram,Mid-Season Sale,Product Photo,Women's Lawn Suit,217,33,22,7867.0,16,2026-03-10,Multan,,Simulated
+P0030,Sapphire,Instagram,Lawn Launch,Reel,Unstitched Suit,1134,45,127,15131.0,28,2026-06-07,Lahore,,Simulated
+P0031,Gul Ahmed,TikTok,11.11 Sale,Carousel,Ready-to-Wear,2148,334,70,33815.0,30,2026-09-05,Islamabad,,Simulated
+P0032,Sapphire,TikTok,Lawn Launch,Product Photo,Unstitched Suit,2220,427,289,19887.0,21,2026-07-11,Islamabad,,Simulated
+P0033,Gul Ahmed,Instagram,11.11 Sale,Styling Video,Unstitched Suit,2086,217,204,38749.0,9,2026-10-16,Rawalpindi,,Simulated
+P0034,Khaadi,TikTok,Ramadan Collection,Influencer Post,Unstitched Suit,2246,550,477,60489.0,3,2026-03-28,Karachi,,Simulated
+P0035,Sapphire,Facebook,Lawn Launch,Reel,Ready-to-Wear,238,83,53,,22,2026-05-03,Sialkot,,Simulated
+P0036,Khaadi,TikTok,Influencer Edit,Reel,Unstitched Suit,2817,379,226,47844.0,2,2026-01-29,Faisalabad,,Simulated
+P0037,Khaadi,Facebook,Lawn Launch,Sale Announcement,Ready-to-Wear,281,31,14,8741.0,15,2026-05-27,Sialkot,,Simulated
+P0038,Gul Ahmed,Facebook,Influencer Edit,Product Photo,Unstitched Suit,388,45,18,,25,2026-08-17,Karachi,,Simulated
+P0039,Khaadi,Instagram,11.11 Sale,Product Photo,Unstitched Suit,668,65,37,9304.0,22,2026-07-15,Lahore,,Simulated
+P0040,Gul Ahmed,TikTok,Ramadan Collection,Reel,Women's Lawn Suit,807,120,14,13388.0,27,2026-07-11,Rawalpindi,,Simulated
+P0041,Sapphire,TikTok,Mid-Season Sale,Product Photo,Unstitched Suit,1724,213,40,21522.0,14,2026-04-28,Lahore,,Simulated
+P0042,Sapphire,Instagram,Mid-Season Sale,Sale Announcement,Unstitched Suit,880,46,112,13754.0,20,2026-10-27,Lahore,,Simulated
+P0043,Sapphire,Instagram,Influencer Edit,Reel,Women's Lawn Suit,1446,63,23,22467.0,24,2026-02-16,Peshawar,,Simulated
+P0044,Gul Ahmed,TikTok,Lawn Launch,Reel,Unstitched Suit,4909,598,400,60857.0,8,2026-01-18,Peshawar,,Simulated
+P0045,Khaadi,Instagram,Eid Collection,Reel,Unstitched Suit,4611,777,164,73423.0,4,2026-09-01,Lahore,,Simulated
+P0046,Gul Ahmed,Instagram,11.11 Sale,Styling Video,Ready-to-Wear,2163,101,281,34907.0,23,2026-07-03,Multan,,Simulated
+P0047,Gul Ahmed,Instagram,Influencer Edit,Reel,Women's Lawn Suit,1402,166,108,19467.0,6,2026-05-14,Karachi,,Simulated
+P0048,Khaadi,Instagram,Mid-Season Sale,Influencer Post,Unstitched Suit,1520,328,189,44858.0,8,2026-07-14,Rawalpindi,,Simulated
+P0049,Sapphire,Instagram,Mid-Season Sale,Reel,Ready-to-Wear,1080,149,75,17522.0,9,2026-02-16,Peshawar,,Simulated
+P0050,Sapphire,Facebook,11.11 Sale,Product Photo,Ready-to-Wear,999,205,143,,9,2026-05-06,Multan,,Simulated
+P0051,Khaadi,Facebook,11.11 Sale,Product Photo,Unstitched Suit,298,28,24,,24,2026-08-31,Karachi,,Simulated
+P0052,Gul Ahmed,Facebook,Mid-Season Sale,Influencer Post,Unstitched Suit,508,33,14,9296.0,8,2026-04-05,Peshawar,,Simulated
+P0053,Sapphire,Instagram,New Arrivals,Product Photo,Ready-to-Wear,110,44,33,4272.0,6,2026-05-05,Multan,,Simulated
+P0054,Sapphire,Facebook,11.11 Sale,Reel,Women's Lawn Suit,5754,440,524,80682.0,16,2026-10-15,Multan,,Simulated
+P0055,Khaadi,Facebook,Ramadan Collection,Reel,Ready-to-Wear,860,257,219,,7,2026-10-15,Peshawar,,Simulated
+P0056,Sapphire,Instagram,Mid-Season Sale,Product Photo,Women's Lawn Suit,641,87,27,12577.0,10,2026-01-25,Karachi,,Simulated
+P0057,Sapphire,TikTok,Ramadan Collection,Reel,Women's Lawn Suit,1803,215,50,29964.0,7,2026-03-22,Peshawar,,Simulated
+P0058,Khaadi,Facebook,Influencer Edit,Styling Video,Unstitched Suit,722,117,57,15377.0,24,2026-08-17,Peshawar,,Simulated
+P0059,Gul Ahmed,Facebook,12.12 Winter Edit,Sale Announcement,Ready-to-Wear,759,57,49,9993.0,16,2026-09-12,Lahore,,Simulated
+P0060,Sapphire,TikTok,New Arrivals,Styling Video,Ready-to-Wear,1292,552,223,48809.0,1,2026-04-12,Islamabad,,Simulated
+P0061,Khaadi,Facebook,New Arrivals,Reel,Unstitched Suit,1588,158,91,,9,2026-10-23,Faisalabad,,Simulated
+P0062,Gul Ahmed,TikTok,Ramadan Collection,Sale Announcement,Ready-to-Wear,4410,665,534,85791.0,3,2026-02-04,Sialkot,,Simulated
+P0063,Khaadi,TikTok,Influencer Edit,Product Photo,Ready-to-Wear,434,38,96,13385.0,23,2026-10-16,Sialkot,,Simulated
+P0064,Sapphire,Instagram,Mid-Season Sale,Carousel,Ready-to-Wear,1904,330,274,32653.0,3,2026-08-27,Peshawar,,Simulated
+P0065,Sapphire,Instagram,Mid-Season Sale,Product Photo,Unstitched Suit,902,131,105,13316.0,2,2026-08-10,Rawalpindi,,Simulated
+P0066,Khaadi,Instagram,Influencer Edit,Reel,Unstitched Suit,1586,253,35,28397.0,8,2026-09-15,Rawalpindi,,Simulated
+P0067,Gul Ahmed,TikTok,12.12 Winter Edit,Styling Video,Ready-to-Wear,7508,526,563,98533.0,8,2026-05-15,Lahore,,Simulated
+P0068,Sapphire,TikTok,12.12 Winter Edit,Reel,Unstitched Suit,1626,265,74,22144.0,21,2026-04-13,Rawalpindi,,Simulated
+P0069,Khaadi,Instagram,11.11 Sale,Influencer Post,Women's Lawn Suit,569,131,58,11725.0,30,2026-04-14,Lahore,,Simulated
+P0070,Sapphire,Instagram,12.12 Winter Edit,Reel,Unstitched Suit,1753,249,333,38449.0,10,2026-05-16,Peshawar,,Simulated
+P0071,Sapphire,Facebook,12.12 Winter Edit,Product Photo,Ready-to-Wear,292,27,25,,27,2026-03-06,Lahore,,Simulated
+P0072,Sapphire,Instagram,12.12 Winter Edit,Product Photo,Ready-to-Wear,1060,181,131,18075.0,11,2026-09-20,Rawalpindi,,Simulated
+P0073,Gul Ahmed,Instagram,Lawn Launch,Carousel,Women's Lawn Suit,888,52,67,12299.0,21,2026-04-06,Rawalpindi,,Simulated
+P0074,Sapphire,TikTok,Ramadan Collection,Influencer Post,Ready-to-Wear,317,29,30,10172.0,5,2026-01-11,Lahore,,Simulated
+P0075,Sapphire,Instagram,Influencer Edit,Influencer Post,Women's Lawn Suit,662,42,90,13784.0,10,2026-05-15,Sialkot,,Simulated
+P0076,Sapphire,Instagram,12.12 Winter Edit,Product Photo,Women's Lawn Suit,207,60,40,8276.0,9,2026-02-03,Islamabad,,Simulated
+P0077,Sapphire,Instagram,New Arrivals,Sale Announcement,Women's Lawn Suit,174,38,23,36821.0,26,2026-04-11,Multan,,Simulated
+P0078,Sapphire,TikTok,12.12 Winter Edit,Reel,Women's Lawn Suit,1448,198,434,52015.0,26,2026-08-02,Lahore,,Simulated
+P0079,Khaadi,Instagram,11.11 Sale,Reel,Women's Lawn Suit,3579,490,471,60505.0,4,2026-05-29,Islamabad,,Simulated
+P0080,Khaadi,Facebook,Influencer Edit,Reel,Unstitched Suit,1374,116,99,17157.0,30,2026-09-14,Sialkot,,Simulated
+P0081,Khaadi,TikTok,Lawn Launch,Product Photo,Women's Lawn Suit,1674,185,54,33603.0,24,2026-09-16,Multan,,Simulated
+P0082,Khaadi,Instagram,12.12 Winter Edit,Reel,Women's Lawn Suit,3974,988,519,90262.0,26,2026-08-01,Karachi,,Simulated
+P0083,Khaadi,Instagram,Eid Collection,Styling Video,Ready-to-Wear,346,36,122,13738.0,6,2026-06-23,Rawalpindi,,Simulated
+P0084,Khaadi,TikTok,11.11 Sale,Sale Announcement,Ready-to-Wear,922,268,110,32899.0,5,2026-07-06,Multan,,Simulated
+P0085,Sapphire,TikTok,Eid Collection,Reel,Ready-to-Wear,3561,735,480,88562.0,18,2026-06-07,Peshawar,,Simulated
+P0086,Khaadi,Facebook,Ramadan Collection,Influencer Post,Ready-to-Wear,696,32,91,12459.0,22,2026-10-23,Faisalabad,,Simulated
+P0087,Khaadi,Instagram,Ramadan Collection,Sale Announcement,Unstitched Suit,1902,96,59,23010.0,12,2026-10-03,Sialkot,,Simulated
+P0088,Khaadi,Instagram,Mid-Season Sale,Product Photo,Ready-to-Wear,666,113,81,11900.0,20,2026-09-21,Peshawar,,Simulated
+P0089,Gul Ahmed,Facebook,Influencer Edit,Reel,Women's Lawn Suit,323,46,72,,28,2026-05-17,Sialkot,,Simulated
+P0090,Sapphire,Facebook,New Arrivals,Sale Announcement,Ready-to-Wear,4161,443,404,69517.0,19,2026-04-06,Sialkot,,Simulated
+P0091,Sapphire,Instagram,12.12 Winter Edit,Product Photo,Women's Lawn Suit,1162,100,152,17599.0,12,2026-08-07,Karachi,,Simulated
+P0092,Sapphire,Facebook,Eid Collection,Sale Announcement,Women's Lawn Suit,407,50,22,7229.0,15,2026-03-02,Lahore,,Simulated
+P0093,Sapphire,TikTok,Ramadan Collection,Styling Video,Unstitched Suit,1377,315,258,32280.0,15,2026-08-20,Lahore,,Simulated
+P0094,Sapphire,TikTok,Mid-Season Sale,Carousel,Unstitched Suit,2699,158,360,46407.0,13,2026-02-11,Faisalabad,,Simulated
+P0095,Sapphire,Facebook,Eid Collection,Reel,Ready-to-Wear,2279,359,127,37956.0,8,2026-09-12,Lahore,,Simulated
+P0096,Gul Ahmed,Facebook,Influencer Edit,Reel,Ready-to-Wear,467,75,117,15061.0,13,2026-02-06,Karachi,,Simulated
+P0097,Gul Ahmed,Instagram,Mid-Season Sale,Reel,Women's Lawn Suit,3494,298,181,61472.0,22,2026-03-30,Lahore,,Simulated
+P0098,Khaadi,TikTok,Mid-Season Sale,Sale Announcement,Ready-to-Wear,1489,172,53,26051.0,9,2026-05-28,Karachi,,Simulated
+P0099,Sapphire,TikTok,Influencer Edit,Influencer Post,Women's Lawn Suit,1818,238,60,48543.0,29,2026-04-25,Karachi,,Simulated
+P0100,Sapphire,Instagram,Mid-Season Sale,Styling Video,Unstitched Suit,670,220,139,18502.0,30,2026-05-01,Multan,,Simulated
+P0101,Sapphire,Instagram,Influencer Edit,Reel,Unstitched Suit,858,189,112,18858.0,28,2026-01-17,Multan,,Simulated
+P0102,Sapphire,Instagram,Influencer Edit,Carousel,Ready-to-Wear,1343,82,23,15885.0,9,2026-07-11,Rawalpindi,,Simulated
+P0103,Sapphire,Instagram,Influencer Edit,Reel,Ready-to-Wear,1729,368,183,39168.0,19,2026-04-01,Multan,,Simulated
+P0104,Sapphire,Instagram,Lawn Launch,Carousel,Women's Lawn Suit,1839,69,111,24278.0,17,2026-02-23,Sialkot,,Simulated
+P0105,Khaadi,Facebook,New Arrivals,Carousel,Ready-to-Wear,1307,95,110,,16,2026-04-29,Karachi,,Simulated
+P0106,Sapphire,Facebook,Ramadan Collection,Carousel,Unstitched Suit,328,44,13,,6,2026-07-14,Lahore,,Simulated
+P0107,Sapphire,Facebook,12.12 Winter Edit,Styling Video,Unstitched Suit,2723,405,112,37994.0,1,2026-10-01,Peshawar,,Simulated
+P0108,Khaadi,Instagram,12.12 Winter Edit,Product Photo,Ready-to-Wear,1053,167,157,18322.0,28,2026-10-01,Faisalabad,,Simulated
+P0109,Gul Ahmed,Instagram,Eid Collection,Styling Video,Unstitched Suit,2079,85,132,31443.0,10,2026-07-30,Sialkot,,Simulated
+P0110,Gul Ahmed,Instagram,Lawn Launch,Carousel,Unstitched Suit,1505,235,101,27678.0,10,2026-04-07,Karachi,,Simulated
+P0111,Gul Ahmed,TikTok,12.12 Winter Edit,Carousel,Ready-to-Wear,1047,143,71,14774.0,26,2026-07-07,Multan,,Simulated
+P0112,Sapphire,Facebook,11.11 Sale,Product Photo,Ready-to-Wear,313,84,64,8213.0,14,2026-06-25,Karachi,,Simulated
+P0113,Sapphire,Instagram,11.11 Sale,Sale Announcement,Women's Lawn Suit,709,137,199,22209.0,26,2026-03-27,Sialkot,,Simulated
+P0114,Gul Ahmed,Instagram,11.11 Sale,Styling Video,Ready-to-Wear,1070,321,101,32159.0,9,2026-10-22,Sialkot,,Simulated
+P0115,Sapphire,Facebook,Ramadan Collection,Reel,Ready-to-Wear,851,106,95,,25,2026-08-27,Lahore,,Simulated
+P0116,Khaadi,Facebook,Mid-Season Sale,Reel,Ready-to-Wear,1778,220,47,33758.0,4,2026-10-20,Multan,,Simulated
+P0117,Sapphire,TikTok,Mid-Season Sale,Sale Announcement,Unstitched Suit,3174,459,223,45400.0,25,2026-03-08,Islamabad,,Simulated
+P0118,Sapphire,TikTok,11.11 Sale,Reel,Unstitched Suit,3425,186,478,29246.0,10,2026-06-10,Peshawar,,Simulated
+P0119,Gul Ahmed,Instagram,Eid Collection,Reel,Unstitched Suit,2237,102,125,30176.0,26,2026-06-13,Faisalabad,,Simulated
+P0120,Khaadi,Facebook,12.12 Winter Edit,Influencer Post,Unstitched Suit,197,23,36,5182.0,22,2026-05-20,Lahore,,Simulated
+P0121,Sapphire,Instagram,Eid Collection,Reel,Ready-to-Wear,1967,515,271,59218.0,25,2026-10-03,Karachi,,Simulated
+P0122,Sapphire,TikTok,Mid-Season Sale,Sale Announcement,Unstitched Suit,991,222,129,23420.0,19,2026-03-08,Faisalabad,,Simulated
+P0123,Sapphire,TikTok,New Arrivals,Styling Video,Unstitched Suit,935,85,75,17273.0,1,2026-03-19,Lahore,,Simulated
+P0124,Sapphire,Facebook,Influencer Edit,Product Photo,Ready-to-Wear,203,30,5,3458.0,4,2026-06-06,Lahore,,Simulated
+P0125,Gul Ahmed,TikTok,Influencer Edit,Styling Video,Women's Lawn Suit,4042,859,111,75468.0,6,2026-04-13,Rawalpindi,,Simulated
+P0126,Sapphire,Instagram,Lawn Launch,Styling Video,Ready-to-Wear,547,45,22,10871.0,27,2026-01-30,Peshawar,,Simulated
+P0127,Sapphire,Instagram,11.11 Sale,Product Photo,Unstitched Suit,1061,76,139,17225.0,2,2026-01-10,Multan,,Simulated
+P0128,Khaadi,Instagram,Eid Collection,Reel,Women's Lawn Suit,5077,743,376,72276.0,13,2026-02-06,Sialkot,,Simulated
+P0129,Gul Ahmed,Instagram,Eid Collection,Product Photo,Ready-to-Wear,1459,81,175,19895.0,10,2026-04-08,Faisalabad,,Simulated
+P0130,Sapphire,TikTok,New Arrivals,Product Photo,Unstitched Suit,759,74,31,17148.0,24,2026-06-25,Peshawar,,Simulated
+P0131,Sapphire,Facebook,Ramadan Collection,Product Photo,Women's Lawn Suit,598,84,30,7422.0,13,2026-08-20,Sialkot,,Simulated
+P0132,Khaadi,Instagram,Lawn Launch,Styling Video,Ready-to-Wear,1643,117,80,34449.0,12,2026-04-07,Multan,,Simulated
+P0133,Khaadi,Instagram,Influencer Edit,Reel,Unstitched Suit,1953,296,151,26182.0,17,2026-02-01,Sialkot,,Simulated
+P0134,Gul Ahmed,TikTok,Eid Collection,Product Photo,Women's Lawn Suit,584,191,117,21398.0,28,2026-06-23,Lahore,,Simulated
+P0135,Sapphire,Facebook,11.11 Sale,Sale Announcement,Ready-to-Wear,1128,88,125,,15,2026-10-24,Lahore,,Simulated
+P0136,Sapphire,Instagram,12.12 Winter Edit,Sale Announcement,Unstitched Suit,3263,418,98,39402.0,7,2026-06-10,Faisalabad,,Simulated
+P0137,Gul Ahmed,TikTok,Eid Collection,Product Photo,Ready-to-Wear,1882,378,187,31978.0,4,2026-10-01,Sialkot,,Simulated
+P0138,Gul Ahmed,Instagram,12.12 Winter Edit,Reel,Unstitched Suit,1882,470,51,43551.0,7,2026-09-09,Faisalabad,,Simulated
+P0139,Khaadi,Instagram,Lawn Launch,Styling Video,Ready-to-Wear,1380,64,104,22226.0,5,2026-10-16,Sialkot,,Simulated
+P0140,Sapphire,Instagram,11.11 Sale,Reel,Women's Lawn Suit,2784,575,496,56479.0,6,2026-01-30,Lahore,,Simulated
+P0141,Sapphire,Facebook,Mid-Season Sale,Sale Announcement,Unstitched Suit,415,116,136,15309.0,20,2026-05-24,Karachi,,Simulated
+P0142,Sapphire,Instagram,Ramadan Collection,Carousel,Unstitched Suit,255,24,61,7960.0,10,2026-10-08,Karachi,,Simulated
+P0143,Sapphire,Facebook,Influencer Edit,Carousel,Women's Lawn Suit,231,94,28,8042.0,18,2026-08-26,Karachi,,Simulated
+P0144,Khaadi,Instagram,Mid-Season Sale,Sale Announcement,Unstitched Suit,2359,358,62,31239.0,17,2026-09-07,Peshawar,,Simulated
+P0145,Gul Ahmed,Facebook,Mid-Season Sale,Influencer Post,Ready-to-Wear,1573,199,119,29146.0,27,2026-03-25,Lahore,,Simulated
+P0146,Sapphire,Instagram,Eid Collection,Sale Announcement,Women's Lawn Suit,1512,222,147,55778.0,6,2026-10-07,Sialkot,,Simulated
+P0147,Gul Ahmed,Instagram,Ramadan Collection,Influencer Post,Women's Lawn Suit,1301,184,70,46565.0,29,2026-02-14,Karachi,,Simulated
+P0148,Khaadi,TikTok,Lawn Launch,Influencer Post,Women's Lawn Suit,1730,298,239,27877.0,24,2026-03-02,Islamabad,,Simulated
+P0149,Gul Ahmed,Instagram,New Arrivals,Reel,Women's Lawn Suit,2018,216,69,28333.0,14,2026-07-04,Karachi,,Simulated
+P0150,Sapphire,Facebook,Ramadan Collection,Product Photo,Ready-to-Wear,874,46,20,10774.0,24,2026-08-05,Rawalpindi,,Simulated
+P0151,Sapphire,Facebook,12.12 Winter Edit,Product Photo,Women's Lawn Suit,832,51,95,,30,2026-03-14,Faisalabad,,Simulated
+P0152,Gul Ahmed,TikTok,Eid Collection,Product Photo,Unstitched Suit,1312,152,128,17661.0,9,2026-05-23,Rawalpindi,,Simulated
+P0153,Sapphire,Facebook,Influencer Edit,Sale Announcement,Ready-to-Wear,961,171,58,,19,2026-06-29,Islamabad,,Simulated
+P0154,Sapphire,Facebook,Lawn Launch,Product Photo,Women's Lawn Suit,280,64,52,7593.0,18,2026-08-12,Sialkot,,Simulated
+P0155,Sapphire,Instagram,Influencer Edit,Carousel,Unstitched Suit,1177,225,146,20749.0,5,2026-02-20,Peshawar,,Simulated
+P0156,Sapphire,Instagram,11.11 Sale,Influencer Post,Women's Lawn Suit,706,167,143,21642.0,12,2026-03-24,Lahore,,Simulated
+P0157,Gul Ahmed,Facebook,Lawn Launch,Sale Announcement,Women's Lawn Suit,468,30,24,6317.0,23,2026-02-24,Islamabad,,Simulated
+P0158,Sapphire,Instagram,New Arrivals,Styling Video,Unstitched Suit,1198,125,92,23356.0,6,2026-03-23,Karachi,,Simulated
+P0159,Khaadi,Facebook,12.12 Winter Edit,Carousel,Unstitched Suit,362,35,34,,15,2026-09-07,Islamabad,,Simulated
+P0160,Sapphire,Instagram,New Arrivals,Reel,Unstitched Suit,2237,293,291,37866.0,15,2026-05-29,Lahore,,Simulated
+P0161,Gul Ahmed,Instagram,Eid Collection,Sale Announcement,Women's Lawn Suit,4467,312,240,56987.0,26,2026-08-13,Peshawar,,Simulated
+P0162,Khaadi,TikTok,Lawn Launch,Product Photo,Unstitched Suit,771,64,180,21006.0,19,2026-03-30,Rawalpindi,,Simulated
+P0163,Sapphire,TikTok,Ramadan Collection,Styling Video,Unstitched Suit,2073,566,107,50716.0,6,2026-03-31,Sialkot,,Simulated
+P0164,Gul Ahmed,Instagram,Influencer Edit,Product Photo,Ready-to-Wear,890,85,125,17477.0,17,2026-03-21,Peshawar,,Simulated
+P0165,Sapphire,Instagram,Influencer Edit,Sale Announcement,Ready-to-Wear,2951,99,92,34865.0,7,2026-09-27,Multan,,Simulated
+P0166,Khaadi,Instagram,Influencer Edit,Product Photo,Unstitched Suit,721,125,95,19650.0,5,2026-04-22,Peshawar,,Simulated
+P0167,Sapphire,Facebook,11.11 Sale,Styling Video,Unstitched Suit,1648,99,140,20504.0,30,2026-01-27,Rawalpindi,,Simulated
+P0168,Sapphire,Instagram,New Arrivals,Reel,Ready-to-Wear,2468,314,97,31063.0,8,2026-03-28,Islamabad,,Simulated
+P0169,Sapphire,Instagram,Eid Collection,Reel,Women's Lawn Suit,13130,1090,221,173227.0,29,2026-01-26,Peshawar,,Simulated
+P0170,Gul Ahmed,TikTok,Ramadan Collection,Reel,Ready-to-Wear,429,33,88,11100.0,19,2026-09-13,Islamabad,,Simulated
+P0171,Gul Ahmed,Facebook,Lawn Launch,Styling Video,Ready-to-Wear,1715,167,200,,4,2026-02-26,Lahore,,Simulated
+P0172,Sapphire,Facebook,Influencer Edit,Product Photo,Unstitched Suit,407,59,30,,30,2026-03-13,Peshawar,,Simulated
+P0173,Khaadi,Instagram,12.12 Winter Edit,Styling Video,Unstitched Suit,863,138,80,11878.0,21,2026-09-02,Karachi,,Simulated
+P0174,Sapphire,Instagram,Mid-Season Sale,Styling Video,Ready-to-Wear,763,165,50,15342.0,3,2026-10-23,Peshawar,,Simulated
+P0175,Sapphire,Instagram,New Arrivals,Carousel,Unstitched Suit,646,118,89,14295.0,27,2026-10-08,Sialkot,,Simulated
+P0176,Khaadi,Instagram,Eid Collection,Styling Video,Unstitched Suit,908,212,24,19785.0,19,2026-05-29,Rawalpindi,,Simulated
+P0177,Sapphire,TikTok,12.12 Winter Edit,Reel,Ready-to-Wear,1643,257,64,23557.0,23,2026-06-14,Rawalpindi,,Simulated
+P0178,Sapphire,Instagram,Influencer Edit,Reel,Women's Lawn Suit,1342,203,111,21269.0,11,2026-10-15,Rawalpindi,,Simulated
+P0179,Gul Ahmed,Instagram,12.12 Winter Edit,Styling Video,Unstitched Suit,939,163,43,20432.0,7,2026-03-20,Karachi,,Simulated
+P0180,Sapphire,TikTok,Mid-Season Sale,Product Photo,Women's Lawn Suit,968,95,268,30064.0,9,2026-03-05,Lahore,,Simulated
+P0181,Khaadi,Instagram,Ramadan Collection,Sale Announcement,Unstitched Suit,1575,173,104,20212.0,18,2026-10-09,Rawalpindi,,Simulated
+P0182,Sapphire,Instagram,New Arrivals,Product Photo,Unstitched Suit,425,60,96,12438.0,13,2026-08-27,Islamabad,,Simulated
+P0183,Khaadi,Facebook,Mid-Season Sale,Sale Announcement,Women's Lawn Suit,350,83,76,,3,2026-02-03,Karachi,,Simulated
+P0184,Khaadi,Facebook,12.12 Winter Edit,Styling Video,Ready-to-Wear,1190,159,115,17866.0,5,2026-07-07,Lahore,,Simulated
+P0185,Sapphire,Instagram,Mid-Season Sale,Reel,Unstitched Suit,5131,1358,702,130828.0,7,2026-01-12,Sialkot,,Simulated
+P0186,Gul Ahmed,Facebook,New Arrivals,Styling Video,Ready-to-Wear,943,146,24,15439.0,28,2026-05-28,Faisalabad,,Simulated
+P0187,Gul Ahmed,TikTok,Lawn Launch,Influencer Post,Women's Lawn Suit,524,66,25,14622.0,15,2026-06-26,Multan,,Simulated
+P0188,Sapphire,Facebook,New Arrivals,Styling Video,Women's Lawn Suit,1032,51,76,,7,2026-06-20,Islamabad,,Simulated
+P0189,Gul Ahmed,Instagram,11.11 Sale,Styling Video,Women's Lawn Suit,1978,297,252,28116.0,7,2026-08-31,Multan,,Simulated
+P0190,Khaadi,Instagram,12.12 Winter Edit,Reel,Ready-to-Wear,3297,499,458,58248.0,23,2026-10-26,Sialkot,,Simulated
+P0191,Sapphire,Instagram,Ramadan Collection,Influencer Post,Unstitched Suit,3282,462,321,39008.0,25,2026-06-24,Sialkot,,Simulated
+P0192,Khaadi,Instagram,12.12 Winter Edit,Influencer Post,Ready-to-Wear,1696,329,125,34274.0,6,2026-06-01,Islamabad,,Simulated
+P0193,Sapphire,Instagram,Lawn Launch,Reel,Women's Lawn Suit,641,70,10,9096.0,26,2026-10-20,Lahore,,Simulated
+P0194,Sapphire,Facebook,11.11 Sale,Product Photo,Ready-to-Wear,160,64,13,6108.0,1,2026-01-17,Faisalabad,,Simulated
+P0195,Gul Ahmed,Instagram,New Arrivals,Reel,Women's Lawn Suit,1086,337,164,30420.0,25,2026-07-24,Sialkot,,Simulated
+P0196,Khaadi,Facebook,11.11 Sale,Styling Video,Unstitched Suit,270,44,24,6287.0,29,2026-10-13,Karachi,,Simulated
+P0197,Sapphire,Instagram,12.12 Winter Edit,Styling Video,Unstitched Suit,2007,321,243,32569.0,1,2026-03-08,Lahore,,Simulated
+P0198,Sapphire,Instagram,Eid Collection,Styling Video,Women's Lawn Suit,1068,131,49,20425.0,6,2026-01-13,Peshawar,,Simulated
+P0199,Sapphire,TikTok,Lawn Launch,Reel,Unstitched Suit,4651,148,402,56648.0,28,2026-08-03,Karachi,,Simulated
+P0200,Sapphire,TikTok,Mid-Season Sale,Influencer Post,Ready-to-Wear,4180,436,376,67550.0,3,2026-09-12,Karachi,,Simulated
+P0201,Gul Ahmed,Facebook,Ramadan Collection,Reel,Unstitched Suit,1763,173,277,31724.0,22,2026-02-09,Sialkot,,Simulated
+P0202,Gul Ahmed,Instagram,11.11 Sale,Product Photo,Unstitched Suit,532,42,54,6959.0,16,2026-08-09,Karachi,,Simulated
+P0203,Khaadi,Facebook,Eid Collection,Carousel,Ready-to-Wear,126,12,23,3730.0,8,2026-09-15,Rawalpindi,,Simulated
+P0204,Sapphire,Facebook,New Arrivals,Product Photo,Women's Lawn Suit,608,54,69,8048.0,1,2026-09-11,Multan,,Simulated
+P0205,Sapphire,TikTok,12.12 Winter Edit,Influencer Post,Women's Lawn Suit,2984,474,218,29295.0,5,2026-03-22,Rawalpindi,,Simulated
+P0206,Khaadi,Facebook,Eid Collection,Product Photo,Unstitched Suit,401,68,41,10071.0,23,2026-02-02,Peshawar,,Simulated
+P0207,Khaadi,Facebook,11.11 Sale,Influencer Post,Unstitched Suit,611,42,88,12172.0,1,2026-09-08,Sialkot,,Simulated
+P0208,Gul Ahmed,Facebook,Lawn Launch,Product Photo,Unstitched Suit,447,15,24,5339.0,16,2026-07-09,Faisalabad,,Simulated
+P0209,Sapphire,Instagram,11.11 Sale,Carousel,Ready-to-Wear,1730,274,343,38938.0,1,2026-03-29,Lahore,,Simulated
+P0210,Sapphire,Instagram,11.11 Sale,Carousel,Unstitched Suit,710,159,70,14083.0,24,2026-06-01,Sialkot,,Simulated
+P0211,Sapphire,Instagram,Ramadan Collection,Influencer Post,Unstitched Suit,2530,205,173,33158.0,26,2026-10-01,Karachi,,Simulated
+P0212,Sapphire,Instagram,11.11 Sale,Reel,Ready-to-Wear,970,240,84,27041.0,17,2026-03-02,Islamabad,,Simulated
+P0213,Sapphire,Instagram,New Arrivals,Styling Video,Ready-to-Wear,772,59,106,13021.0,14,2026-05-09,Multan,,Simulated
+P0214,Sapphire,Facebook,Eid Collection,Reel,Women's Lawn Suit,1611,250,128,,21,2026-08-13,Multan,,Simulated
+P0215,Khaadi,TikTok,Lawn Launch,Product Photo,Unstitched Suit,508,118,15,14258.0,5,2026-01-23,Faisalabad,,Simulated
+P0216,Sapphire,Instagram,12.12 Winter Edit,Reel,Unstitched Suit,1315,219,146,35975.0,11,2026-03-24,Islamabad,,Simulated
+P0217,Sapphire,Instagram,Lawn Launch,Reel,Ready-to-Wear,2570,344,153,30440.0,1,2026-08-28,Sialkot,,Simulated
+P0218,Gul Ahmed,Facebook,12.12 Winter Edit,Sale Announcement,Women's Lawn Suit,1684,241,82,23728.0,15,2026-09-26,Sialkot,,Simulated
+P0219,Khaadi,TikTok,Eid Collection,Sale Announcement,Unstitched Suit,3892,551,318,54657.0,3,2026-06-05,Islamabad,,Simulated
+P0220,Sapphire,Instagram,Eid Collection,Product Photo,Women's Lawn Suit,792,106,131,16312.0,20,2026-05-15,Islamabad,,Simulated
+P0221,Khaadi,TikTok,Influencer Edit,Product Photo,Ready-to-Wear,437,78,23,10829.0,10,2026-08-19,Faisalabad,,Simulated
+P0222,Sapphire,Instagram,Lawn Launch,Sale Announcement,Unstitched Suit,1335,168,34,16082.0,21,2026-10-18,Faisalabad,,Simulated
+P0223,Sapphire,Instagram,12.12 Winter Edit,Sale Announcement,Women's Lawn Suit,657,161,139,20617.0,18,2026-03-20,Islamabad,,Simulated
+P0224,Khaadi,TikTok,Lawn Launch,Reel,Women's Lawn Suit,1935,687,491,60260.0,9,2026-03-19,Karachi,,Simulated
+P0225,Sapphire,Instagram,12.12 Winter Edit,Influencer Post,Unstitched Suit,712,273,105,22800.0,22,2026-04-05,Islamabad,,Simulated
+P0226,Sapphire,TikTok,New Arrivals,Reel,Unstitched Suit,1178,157,124,26849.0,18,2026-10-06,Rawalpindi,,Simulated
+P0227,Khaadi,Instagram,Influencer Edit,Sale Announcement,Ready-to-Wear,715,228,97,26178.0,8,2026-06-26,Rawalpindi,,Simulated
+P0228,Gul Ahmed,TikTok,Eid Collection,Styling Video,Unstitched Suit,1478,238,105,31398.0,15,2026-02-10,Lahore,,Simulated
+P0229,Sapphire,Instagram,Ramadan Collection,Reel,Ready-to-Wear,1582,156,95,25265.0,12,2026-07-27,Sialkot,,Simulated
+P0230,Gul Ahmed,Instagram,Influencer Edit,Influencer Post,Unstitched Suit,1373,57,83,18908.0,9,2026-06-06,Multan,,Simulated
+P0231,Khaadi,TikTok,Eid Collection,Product Photo,Unstitched Suit,1492,155,144,21287.0,3,2026-09-08,Faisalabad,,Simulated
+P0232,Gul Ahmed,Facebook,Ramadan Collection,Styling Video,Unstitched Suit,912,71,123,15641.0,16,2026-09-18,Multan,,Simulated
+P0233,Sapphire,Instagram,Ramadan Collection,Product Photo,Women's Lawn Suit,515,64,17,6589.0,22,2026-03-24,Karachi,,Simulated
+P0234,Sapphire,Facebook,Mid-Season Sale,Styling Video,Unstitched Suit,671,28,10,,19,2026-03-31,Multan,,Simulated
+P0235,Sapphire,Facebook,11.11 Sale,Influencer Post,Unstitched Suit,545,63,56,,15,2026-07-09,Peshawar,,Simulated
+P0236,Sapphire,Instagram,Eid Collection,Reel,Unstitched Suit,3452,351,407,48736.0,5,2026-03-28,Lahore,,Simulated
+P0237,Sapphire,Instagram,Ramadan Collection,Product Photo,Ready-to-Wear,81,9,12,2169.0,3,2026-05-07,Peshawar,,Simulated
+P0238,Sapphire,Instagram,Lawn Launch,Sale Announcement,Ready-to-Wear,1863,145,133,24175.0,23,2026-05-09,Lahore,,Simulated
+P0239,Sapphire,Instagram,Lawn Launch,Reel,Women's Lawn Suit,1534,566,406,52949.0,22,2026-01-23,Islamabad,,Simulated
+P0240,Sapphire,Instagram,Eid Collection,Sale Announcement,Unstitched Suit,2205,216,151,30324.0,15,2026-06-14,Sialkot,,Simulated
+P0241,Sapphire,Instagram,Mid-Season Sale,Sale Announcement,Ready-to-Wear,1325,183,63,20418.0,2,2026-09-06,Lahore,,Simulated
+P0242,Sapphire,Facebook,12.12 Winter Edit,Product Photo,Women's Lawn Suit,421,35,71,8995.0,21,2026-04-02,Faisalabad,,Simulated
+P0243,Sapphire,Facebook,Eid Collection,Sale Announcement,Women's Lawn Suit,413,144,132,,8,2026-03-22,Lahore,,Simulated
+P0244,Sapphire,Facebook,Eid Collection,Styling Video,Ready-to-Wear,2268,132,67,,17,2026-01-04,Lahore,,Simulated
+P0245,Gul Ahmed,Facebook,Ramadan Collection,Sale Announcement,Women's Lawn Suit,251,49,21,,23,2026-09-19,Faisalabad,,Simulated
+P0246,Khaadi,TikTok,Ramadan Collection,Product Photo,Unstitched Suit,1495,286,58,38143.0,28,2026-05-27,Sialkot,,Simulated
+P0247,Sapphire,Instagram,Influencer Edit,Reel,Ready-to-Wear,1573,72,150,22955.0,23,2026-09-11,Islamabad,,Simulated
+P0248,Khaadi,TikTok,Influencer Edit,Styling Video,Ready-to-Wear,3902,382,298,47344.0,15,2026-04-07,Rawalpindi,,Simulated
+P0249,Sapphire,Facebook,New Arrivals,Carousel,Ready-to-Wear,632,93,16,,5,2026-05-25,Peshawar,,Simulated
+P0250,Khaadi,Facebook,Lawn Launch,Styling Video,Unstitched Suit,265,43,44,,9,2026-08-26,Peshawar,,Simulated
+P0251,Khaadi,Instagram,11.11 Sale,Influencer Post,Ready-to-Wear,3389,454,207,55930.0,7,2026-08-07,Peshawar,,Simulated
+P0252,Sapphire,Facebook,Influencer Edit,Influencer Post,Ready-to-Wear,574,94,134,15697.0,10,2026-01-16,Faisalabad,,Simulated
+P0253,Sapphire,Instagram,Eid Collection,Product Photo,Unstitched Suit,936,45,75,12798.0,25,2026-09-28,Karachi,,Simulated
+P0254,Gul Ahmed,Instagram,New Arrivals,Carousel,Women's Lawn Suit,357,97,47,9493.0,20,2026-06-06,Lahore,,Simulated
+P0255,Sapphire,Facebook,New Arrivals,Carousel,Ready-to-Wear,645,90,41,7931.0,25,2026-08-23,Multan,,Simulated
+P0256,Sapphire,Instagram,New Arrivals,Reel,Ready-to-Wear,989,197,69,25625.0,10,2026-09-08,Karachi,,Simulated
+P0257,Gul Ahmed,Facebook,Influencer Edit,Product Photo,Ready-to-Wear,449,62,43,,19,2026-03-18,Faisalabad,,Simulated
+P0258,Gul Ahmed,Facebook,Ramadan Collection,Reel,Women's Lawn Suit,915,50,97,19215.0,28,2026-06-25,Faisalabad,,Simulated
+P0259,Sapphire,Instagram,11.11 Sale,Reel,Ready-to-Wear,1931,302,183,54608.0,16,2026-06-15,Karachi,,Simulated
+P0260,Sapphire,Facebook,New Arrivals,Carousel,Unstitched Suit,546,92,16,,17,2026-07-27,Faisalabad,,Simulated
+P0261,Sapphire,Facebook,Ramadan Collection,Influencer Post,Women's Lawn Suit,330,93,95,,19,2026-04-24,Multan,,Simulated
+P0262,Khaadi,TikTok,Influencer Edit,Influencer Post,Women's Lawn Suit,3025,1056,113,93546.0,8,2026-07-29,Peshawar,,Simulated
+P0263,Sapphire,Instagram,12.12 Winter Edit,Reel,Unstitched Suit,2211,429,266,63248.0,1,2026-09-14,Multan,,Simulated
+P0264,Sapphire,Facebook,Mid-Season Sale,Reel,Ready-to-Wear,345,80,60,,22,2026-10-01,Rawalpindi,,Simulated
+P0265,Sapphire,Instagram,New Arrivals,Styling Video,Unstitched Suit,2663,603,260,68365.0,1,2026-04-01,Sialkot,,Simulated
+P0266,Sapphire,Facebook,Influencer Edit,Sale Announcement,Ready-to-Wear,176,29,15,,5,2026-05-29,Sialkot,,Simulated
+P0267,Sapphire,Instagram,Mid-Season Sale,Carousel,Women's Lawn Suit,939,108,60,20629.0,18,2026-10-26,Faisalabad,,Simulated
+P0268,Khaadi,TikTok,New Arrivals,Styling Video,Unstitched Suit,718,197,49,19128.0,6,2026-05-09,Multan,,Simulated
+P0269,Sapphire,Facebook,12.12 Winter Edit,Influencer Post,Unstitched Suit,1335,195,122,,26,2026-02-20,Karachi,,Simulated
+P0270,Sapphire,TikTok,New Arrivals,Styling Video,Women's Lawn Suit,2242,133,106,38054.0,28,2026-10-06,Peshawar,,Simulated
+P0271,Sapphire,Instagram,Lawn Launch,Product Photo,Ready-to-Wear,533,21,37,6776.0,8,2026-04-27,Islamabad,,Simulated
+P0272,Sapphire,Instagram,Lawn Launch,Product Photo,Women's Lawn Suit,621,119,81,11651.0,10,2026-06-24,Islamabad,,Simulated
+P0273,Khaadi,TikTok,12.12 Winter Edit,Sale Announcement,Women's Lawn Suit,2276,156,209,32826.0,5,2026-02-21,Rawalpindi,,Simulated
+P0274,Gul Ahmed,TikTok,Lawn Launch,Product Photo,Unstitched Suit,884,204,261,32831.0,8,2026-10-24,Multan,,Simulated
+P0275,Khaadi,Facebook,Ramadan Collection,Product Photo,Ready-to-Wear,1244,74,37,,25,2026-06-17,Lahore,,Simulated
+P0276,Gul Ahmed,Instagram,11.11 Sale,Reel,Ready-to-Wear,2911,90,187,34480.0,29,2026-03-09,Faisalabad,,Simulated
+P0277,Sapphire,TikTok,Ramadan Collection,Product Photo,Unstitched Suit,555,29,31,7701.0,13,2026-06-05,Sialkot,,Simulated
+P0278,Sapphire,Instagram,Eid Collection,Influencer Post,Women's Lawn Suit,1423,298,263,39665.0,17,2026-03-23,Faisalabad,,Simulated
+P0279,Khaadi,Instagram,Lawn Launch,Sale Announcement,Ready-to-Wear,2463,152,85,34236.0,6,2026-08-20,Sialkot,,Simulated
+P0280,Gul Ahmed,Instagram,Eid Collection,Styling Video,Ready-to-Wear,1978,292,178,27162.0,4,2026-01-25,Multan,,Simulated
+P0281,Sapphire,Facebook,Influencer Edit,Styling Video,Unstitched Suit,218,85,34,,28,2026-01-27,Peshawar,,Simulated
+P0282,Gul Ahmed,Instagram,Mid-Season Sale,Sale Announcement,Women's Lawn Suit,879,164,97,19002.0,5,2026-01-15,Islamabad,,Simulated
+P0283,Khaadi,Instagram,Influencer Edit,Reel,Ready-to-Wear,2155,514,368,56717.0,4,2026-08-03,Faisalabad,,Simulated
+P0284,Sapphire,Instagram,Mid-Season Sale,Sale Announcement,Unstitched Suit,733,77,58,9675.0,14,2026-08-10,Islamabad,,Simulated
+P0285,Sapphire,Facebook,12.12 Winter Edit,Sale Announcement,Women's Lawn Suit,574,34,27,,30,2026-07-11,Peshawar,,Simulated
+P0286,Gul Ahmed,Instagram,11.11 Sale,Reel,Unstitched Suit,1154,337,141,43254.0,7,2026-07-28,Faisalabad,,Simulated
+P0287,Khaadi,Instagram,Influencer Edit,Carousel,Ready-to-Wear,2155,309,180,26169.0,9,2026-01-18,Karachi,,Simulated
+P0288,Sapphire,TikTok,11.11 Sale,Styling Video,Unstitched Suit,4627,558,381,62042.0,26,2026-05-16,Multan,,Simulated
+P0289,Gul Ahmed,Instagram,Lawn Launch,Product Photo,Ready-to-Wear,775,73,40,15113.0,2,2026-04-22,Sialkot,,Simulated
+P0290,Sapphire,Instagram,11.11 Sale,Sale Announcement,Women's Lawn Suit,1331,99,127,18022.0,19,2026-04-25,Sialkot,,Simulated
+P0291,Sapphire,Facebook,11.11 Sale,Product Photo,Ready-to-Wear,687,67,22,12163.0,23,2026-05-05,Peshawar,,Simulated
+P0292,Sapphire,Facebook,New Arrivals,Carousel,Unstitched Suit,90,16,6,3452.0,23,2026-07-06,Karachi,,Simulated
+P0293,Sapphire,Instagram,Lawn Launch,Influencer Post,Women's Lawn Suit,630,61,58,10871.0,1,2026-04-10,Rawalpindi,,Simulated
+P0294,Sapphire,TikTok,Eid Collection,Reel,Unstitched Suit,8610,1151,1233,138750.0,6,2026-02-13,Lahore,,Simulated
+P0295,Sapphire,TikTok,Influencer Edit,Reel,Ready-to-Wear,3072,148,340,37985.0,19,2026-05-25,Multan,,Simulated
+P0296,Gul Ahmed,TikTok,Ramadan Collection,Reel,Women's Lawn Suit,769,171,144,22679.0,12,2026-06-20,Rawalpindi,,Simulated
+P0297,Sapphire,Instagram,12.12 Winter Edit,Reel,Unstitched Suit,1885,57,50,22191.0,26,2026-02-06,Faisalabad,,Simulated
+P0298,Khaadi,Facebook,Eid Collection,Styling Video,Unstitched Suit,573,42,52,,15,2026-04-20,Sialkot,,Simulated
+P0299,Sapphire,Instagram,Ramadan Collection,Product Photo,Women's Lawn Suit,1050,57,93,12477.0,3,2026-10-25,Multan,,Simulated
+P0300,Gul Ahmed,Instagram,12.12 Winter Edit,Product Photo,Ready-to-Wear,499,144,31,14609.0,1,2026-10-15,Sialkot,,Simulated
+P0301,Sapphire,Facebook,Ramadan Collection,Product Photo,Women's Lawn Suit,412,17,28,4964.0,5,2026-02-03,Islamabad,,Simulated
+P0302,Sapphire,Instagram,12.12 Winter Edit,Influencer Post,Ready-to-Wear,792,275,122,24257.0,8,2026-05-21,Peshawar,,Simulated
+P0303,Gul Ahmed,Facebook,11.11 Sale,Styling Video,Women's Lawn Suit,209,17,29,5027.0,22,2026-02-27,Rawalpindi,,Simulated
+P0304,Khaadi,Facebook,Eid Collection,Reel,Women's Lawn Suit,640,113,80,,19,2026-08-26,Rawalpindi,,Simulated
+P0305,Gul Ahmed,Instagram,Influencer Edit,Carousel,Unstitched Suit,424,102,17,10693.0,3,2026-04-29,Multan,,Simulated
+P0306,Khaadi,Instagram,Lawn Launch,Reel,Unstitched Suit,1834,236,83,25944.0,8,2026-03-29,Multan,,Simulated
+P0307,Sapphire,TikTok,Lawn Launch,Reel,Women's Lawn Suit,2339,235,187,33645.0,10,2026-02-22,Rawalpindi,,Simulated
+P0308,Khaadi,Instagram,11.11 Sale,Sale Announcement,Women's Lawn Suit,844,143,83,29261.0,20,2026-04-24,Sialkot,,Simulated
+P0309,Sapphire,Facebook,Mid-Season Sale,Styling Video,Ready-to-Wear,638,150,95,,1,2026-05-14,Karachi,,Simulated
+P0310,Gul Ahmed,Instagram,Mid-Season Sale,Styling Video,Ready-to-Wear,660,185,155,21416.0,24,2026-03-16,Faisalabad,,Simulated
+P0311,Sapphire,Facebook,11.11 Sale,Styling Video,Unstitched Suit,1181,130,57,19419.0,5,2026-02-19,Lahore,,Simulated
+P0312,Khaadi,Instagram,New Arrivals,Reel,Women's Lawn Suit,1923,237,157,23216.0,2,2026-05-15,Peshawar,,Simulated
+P0313,Khaadi,TikTok,Eid Collection,Product Photo,Unstitched Suit,697,65,114,18205.0,19,2026-04-01,Peshawar,,Simulated
+P0314,Sapphire,Instagram,Influencer Edit,Reel,Ready-to-Wear,2662,384,268,34359.0,23,2026-06-14,Sialkot,,Simulated
+P0315,Sapphire,Instagram,12.12 Winter Edit,Reel,Unstitched Suit,2887,153,304,35129.0,3,2026-07-31,Islamabad,,Simulated
+P0316,Khaadi,Facebook,Ramadan Collection,Product Photo,Ready-to-Wear,402,46,62,9345.0,14,2026-02-26,Multan,,Simulated
+P0317,Sapphire,Facebook,Influencer Edit,Reel,Ready-to-Wear,482,78,50,13883.0,21,2026-08-26,Multan,,Simulated
+P0318,Khaadi,Facebook,11.11 Sale,Reel,Women's Lawn Suit,1321,57,22,,22,2026-10-11,Multan,,Simulated
+P0319,Sapphire,TikTok,Eid Collection,Reel,Unstitched Suit,2052,693,87,58007.0,24,2026-03-23,Rawalpindi,,Simulated
+P0320,Gul Ahmed,Facebook,Ramadan Collection,Styling Video,Ready-to-Wear,833,80,27,13682.0,9,2026-02-25,Karachi,,Simulated
+P0321,Sapphire,Instagram,Influencer Edit,Reel,Ready-to-Wear,1220,56,98,14726.0,28,2026-01-24,Lahore,,Simulated
+P0322,Sapphire,Instagram,Ramadan Collection,Reel,Ready-to-Wear,3784,536,514,57933.0,25,2026-07-01,Multan,,Simulated
+P0323,Sapphire,Instagram,Ramadan Collection,Sale Announcement,Women's Lawn Suit,1648,100,100,20292.0,11,2026-09-05,Lahore,,Simulated
+P0324,Gul Ahmed,Instagram,Eid Collection,Styling Video,Ready-to-Wear,1558,116,230,42457.0,5,2026-02-12,Multan,,Simulated
+P0325,Sapphire,Facebook,12.12 Winter Edit,Product Photo,Unstitched Suit,826,99,85,,17,2026-09-01,Faisalabad,,Simulated
+P0326,Sapphire,Instagram,Mid-Season Sale,Reel,Unstitched Suit,692,137,110,15028.0,7,2026-02-02,Faisalabad,,Simulated
+P0327,Sapphire,Instagram,12.12 Winter Edit,Styling Video,Unstitched Suit,1450,165,242,32362.0,11,2026-01-11,Islamabad,,Simulated
+P0328,Khaadi,Instagram,Ramadan Collection,Sale Announcement,Women's Lawn Suit,993,122,34,18392.0,14,2026-02-28,Faisalabad,,Simulated
+P0329,Gul Ahmed,Instagram,Eid Collection,Reel,Ready-to-Wear,2191,263,387,47318.0,4,2026-10-11,Multan,,Simulated
+P0330,Khaadi,Instagram,Mid-Season Sale,Reel,Ready-to-Wear,3712,333,418,47741.0,9,2026-04-14,Faisalabad,,Simulated
+P0331,Gul Ahmed,Instagram,Ramadan Collection,Influencer Post,Women's Lawn Suit,463,83,14,10660.0,2,2026-01-02,Karachi,,Simulated
+P0332,Sapphire,Instagram,Ramadan Collection,Influencer Post,Unstitched Suit,1094,178,32,15463.0,2,2026-03-10,Sialkot,,Simulated
+P0333,Khaadi,Facebook,Ramadan Collection,Styling Video,Women's Lawn Suit,541,75,36,,22,2026-10-14,Rawalpindi,,Simulated
+P0334,Sapphire,Instagram,Eid Collection,Reel,Ready-to-Wear,1694,113,150,33714.0,26,2026-07-11,Islamabad,,Simulated
+P0335,Sapphire,Facebook,Lawn Launch,Influencer Post,Women's Lawn Suit,2290,235,157,,15,2026-02-09,Rawalpindi,,Simulated
+P0336,Khaadi,Instagram,12.12 Winter Edit,Carousel,Women's Lawn Suit,241,74,14,9107.0,11,2026-01-15,Sialkot,,Simulated
+P0337,Sapphire,TikTok,Influencer Edit,Influencer Post,Women's Lawn Suit,4007,200,97,57872.0,19,2026-08-26,Islamabad,,Simulated
+P0338,Gul Ahmed,Instagram,Eid Collection,Styling Video,Ready-to-Wear,2244,480,229,45442.0,17,2026-07-01,Karachi,,Simulated
+P0339,Sapphire,TikTok,Ramadan Collection,Product Photo,Women's Lawn Suit,1923,312,336,41749.0,1,2026-08-31,Sialkot,,Simulated
+P0340,Sapphire,Instagram,Lawn Launch,Sale Announcement,Unstitched Suit,1265,194,110,19380.0,6,2026-02-01,Peshawar,,Simulated
+P0341,Sapphire,Instagram,Lawn Launch,Reel,Ready-to-Wear,2590,278,259,47333.0,4,2026-10-08,Faisalabad,,Simulated
+P0342,Sapphire,Facebook,Ramadan Collection,Product Photo,Women's Lawn Suit,148,19,22,3386.0,9,2026-06-25,Multan,,Simulated
+P0343,Gul Ahmed,Instagram,Lawn Launch,Sale Announcement,Unstitched Suit,1399,164,27,25251.0,2,2026-07-17,Faisalabad,,Simulated
+P0344,Gul Ahmed,TikTok,New Arrivals,Product Photo,Unstitched Suit,819,198,118,22062.0,15,2026-10-04,Sialkot,,Simulated
+P0345,Khaadi,Instagram,Mid-Season Sale,Reel,Women's Lawn Suit,1197,427,377,44851.0,5,2026-09-13,Multan,,Simulated
+P0346,Sapphire,Facebook,Eid Collection,Styling Video,Ready-to-Wear,1595,217,150,20092.0,16,2026-09-08,Faisalabad,,Simulated
+P0347,Sapphire,Facebook,Influencer Edit,Reel,Ready-to-Wear,412,78,41,,20,2026-05-11,Multan,,Simulated
+P0348,Sapphire,TikTok,Eid Collection,Sale Announcement,Unstitched Suit,1410,309,69,41169.0,9,2026-07-17,Sialkot,,Simulated
+P0349,Khaadi,TikTok,Ramadan Collection,Sale Announcement,Women's Lawn Suit,257,20,35,6464.0,17,2026-10-25,Rawalpindi,,Simulated
+P0350,Sapphire,Instagram,12.12 Winter Edit,Influencer Post,Women's Lawn Suit,1859,430,146,39676.0,23,2026-02-26,Multan,,Simulated
+P0351,Khaadi,Facebook,Mid-Season Sale,Product Photo,Unstitched Suit,129,14,46,,25,2026-07-10,Karachi,,Simulated
+P0352,Sapphire,Instagram,Mid-Season Sale,Sale Announcement,Women's Lawn Suit,804,183,139,19015.0,15,2026-08-25,Faisalabad,,Simulated
+P0353,Sapphire,Instagram,Influencer Edit,Product Photo,Ready-to-Wear,382,42,35,6577.0,30,2026-07-26,Peshawar,,Simulated
+P0354,Khaadi,TikTok,Influencer Edit,Carousel,Women's Lawn Suit,3142,327,275,41731.0,9,2026-05-13,Multan,,Simulated
+P0355,Sapphire,Facebook,Influencer Edit,Styling Video,Women's Lawn Suit,147,62,34,,7,2026-04-21,Karachi,,Simulated
+P0356,Gul Ahmed,Facebook,Ramadan Collection,Product Photo,Women's Lawn Suit,351,121,94,14051.0,28,2026-05-05,Faisalabad,,Simulated
+P0357,Gul Ahmed,TikTok,New Arrivals,Styling Video,Unstitched Suit,4235,589,419,50255.0,9,2026-09-25,Sialkot,,Simulated
+P0358,Khaadi,Instagram,Lawn Launch,Influencer Post,Unstitched Suit,2212,428,353,70051.0,16,2026-06-06,Rawalpindi,,Simulated
+P0359,Sapphire,Instagram,New Arrivals,Reel,Unstitched Suit,539,145,48,20750.0,26,2026-07-08,Islamabad,,Simulated
+P0360,Sapphire,Instagram,Influencer Edit,Influencer Post,Women's Lawn Suit,1235,234,60,21438.0,7,2026-04-02,Islamabad,,Simulated
+P0361,Sapphire,Instagram,Mid-Season Sale,Influencer Post,Ready-to-Wear,657,66,32,8565.0,30,2026-02-14,Islamabad,,Simulated
+P0362,Gul Ahmed,TikTok,12.12 Winter Edit,Influencer Post,Unstitched Suit,2626,282,319,38814.0,16,2026-07-06,Karachi,,Simulated
+P0363,Sapphire,TikTok,Influencer Edit,Sale Announcement,Women's Lawn Suit,1857,416,90,42798.0,26,2026-03-11,Sialkot,,Simulated
+P0364,Gul Ahmed,Instagram,New Arrivals,Product Photo,Ready-to-Wear,597,198,149,20317.0,13,2026-03-19,Rawalpindi,,Simulated
+P0365,Sapphire,Facebook,Mid-Season Sale,Carousel,Women's Lawn Suit,1758,129,182,,25,2026-01-19,Rawalpindi,,Simulated
+P0366,Gul Ahmed,Instagram,Eid Collection,Carousel,Women's Lawn Suit,1263,128,50,24639.0,23,2026-09-22,Faisalabad,,Simulated
+P0367,Sapphire,Instagram,Influencer Edit,Carousel,Women's Lawn Suit,250,31,42,6772.0,1,2026-04-30,Faisalabad,,Simulated
+P0368,Khaadi,TikTok,Lawn Launch,Styling Video,Women's Lawn Suit,1744,459,235,39440.0,14,2026-04-20,Islamabad,,Simulated
+P0369,Khaadi,Instagram,New Arrivals,Sale Announcement,Women's Lawn Suit,1188,156,45,18191.0,21,2026-03-02,Peshawar,,Simulated
+P0370,Khaadi,Facebook,Mid-Season Sale,Product Photo,Ready-to-Wear,479,128,66,12625.0,10,2026-01-19,Islamabad,,Simulated
+P0371,Khaadi,TikTok,New Arrivals,Reel,Women's Lawn Suit,976,97,159,20196.0,2,2026-08-17,Sialkot,,Simulated
+P0372,Sapphire,Instagram,11.11 Sale,Reel,Women's Lawn Suit,2130,462,62,42587.0,27,2026-01-25,Karachi,,Simulated
+P0373,Sapphire,TikTok,11.11 Sale,Sale Announcement,Ready-to-Wear,1920,189,205,50973.0,21,2026-02-02,Sialkot,,Simulated
+P0374,Sapphire,Facebook,12.12 Winter Edit,Product Photo,Unstitched Suit,385,68,28,,28,2026-08-26,Lahore,,Simulated
+P0375,Sapphire,Instagram,Ramadan Collection,Product Photo,Ready-to-Wear,914,230,117,19927.0,15,2026-04-16,Multan,,Simulated
+P0376,Khaadi,Facebook,Eid Collection,Reel,Women's Lawn Suit,1305,89,36,,8,2026-08-14,Rawalpindi,,Simulated
+P0377,Sapphire,Instagram,Mid-Season Sale,Influencer Post,Unstitched Suit,1320,260,132,29429.0,21,2026-09-22,Multan,,Simulated
+P0378,Khaadi,Facebook,Influencer Edit,Carousel,Ready-to-Wear,1337,196,164,,27,2026-09-13,Rawalpindi,,Simulated
+P0379,Gul Ahmed,Facebook,11.11 Sale,Sale Announcement,Unstitched Suit,1425,83,115,,13,2026-01-31,Karachi,,Simulated
+P0380,Sapphire,Facebook,Mid-Season Sale,Influencer Post,Ready-to-Wear,1046,153,69,15277.0,22,2026-10-20,Karachi,,Simulated
+P0381,Khaadi,TikTok,Eid Collection,Influencer Post,Women's Lawn Suit,3412,239,114,43979.0,3,2026-09-15,Multan,,Simulated
+P0382,Sapphire,Instagram,Lawn Launch,Styling Video,Women's Lawn Suit,1011,274,56,24259.0,12,2026-04-14,Sialkot,,Simulated
+P0383,Sapphire,Instagram,12.12 Winter Edit,Reel,Ready-to-Wear,1332,136,150,23901.0,8,2026-03-29,Multan,,Simulated
+P0384,Gul Ahmed,TikTok,Mid-Season Sale,Styling Video,Women's Lawn Suit,9269,446,973,137800.0,15,2026-08-26,Sialkot,,Simulated
+P0385,Sapphire,Instagram,12.12 Winter Edit,Sale Announcement,Ready-to-Wear,1822,262,45,22594.0,28,2026-10-05,Faisalabad,,Simulated
+P0386,Sapphire,Instagram,Ramadan Collection,Product Photo,Ready-to-Wear,1042,140,117,16247.0,25,2026-02-16,Rawalpindi,,Simulated
+P0387,Sapphire,Instagram,12.12 Winter Edit,Reel,Ready-to-Wear,1395,212,336,53239.0,7,2026-08-25,Faisalabad,,Simulated
+P0388,Sapphire,TikTok,Mid-Season Sale,Influencer Post,Women's Lawn Suit,2023,247,176,39799.0,27,2026-06-19,Islamabad,,Simulated
+P0389,Khaadi,Facebook,Ramadan Collection,Sale Announcement,Ready-to-Wear,865,263,196,9466.0,24,2026-07-10,Rawalpindi,,Simulated
+P0390,Sapphire,Instagram,Lawn Launch,Influencer Post,Ready-to-Wear,1360,499,162,49655.0,3,2026-05-12,Multan,,Simulated
+P0391,Gul Ahmed,Facebook,Eid Collection,Styling Video,Women's Lawn Suit,1062,141,44,15407.0,19,2026-01-22,Faisalabad,,Simulated
+P0392,Khaadi,Instagram,12.12 Winter Edit,Product Photo,Women's Lawn Suit,958,172,30,18692.0,8,2026-03-07,Rawalpindi,,Simulated
+P0393,Gul Ahmed,Instagram,Eid Collection,Styling Video,Ready-to-Wear,1004,84,101,17083.0,11,2026-07-20,Karachi,,Simulated
+P0394,Sapphire,Instagram,12.12 Winter Edit,Reel,Unstitched Suit,730,336,33,29096.0,18,2026-10-27,Rawalpindi,,Simulated
+P0395,Sapphire,Facebook,New Arrivals,Carousel,Women's Lawn Suit,758,95,75,9010.0,22,2026-05-07,Peshawar,,Simulated
+P0396,Gul Ahmed,Facebook,Ramadan Collection,Influencer Post,Ready-to-Wear,460,35,23,,29,2026-07-06,Karachi,,Simulated
+P0397,Khaadi,Facebook,Eid Collection,Influencer Post,Ready-to-Wear,966,95,93,12410.0,12,2026-02-17,Peshawar,,Simulated
+P0398,Sapphire,Instagram,Influencer Edit,Product Photo,Unstitched Suit,1209,123,51,18716.0,13,2026-06-05,Peshawar,,Simulated
+P0399,Khaadi,Instagram,Eid Collection,Carousel,Ready-to-Wear,1766,90,195,23644.0,7,2026-07-15,Peshawar,,Simulated
+P0400,Sapphire,Facebook,Lawn Launch,Reel,Ready-to-Wear,301,34,8,4722.0,3,2026-03-21,Lahore,,Simulated
+P0401,Gul Ahmed,Instagram,Influencer Edit,Styling Video,Ready-to-Wear,244,86,27,8035.0,6,2026-02-04,Islamabad,,Simulated
+P0402,Sapphire,TikTok,Mid-Season Sale,Styling Video,Ready-to-Wear,1457,62,74,17820.0,2,2026-06-28,Islamabad,,Simulated
+P0403,Sapphire,Instagram,Mid-Season Sale,Styling Video,Women's Lawn Suit,611,44,49,11136.0,9,2026-01-21,Multan,,Simulated
+P0404,Sapphire,Instagram,Mid-Season Sale,Influencer Post,Unstitched Suit,1356,183,237,47949.0,18,2026-01-23,Multan,,Simulated
+P0405,Sapphire,Instagram,Eid Collection,Product Photo,Unstitched Suit,118,18,19,4038.0,18,2026-01-19,Rawalpindi,,Simulated
+P0406,Sapphire,TikTok,Mid-Season Sale,Product Photo,Unstitched Suit,189,24,33,7315.0,26,2026-04-08,Islamabad,,Simulated
+P0407,Gul Ahmed,Instagram,12.12 Winter Edit,Styling Video,Women's Lawn Suit,6108,452,528,106591.0,11,2026-08-28,Rawalpindi,,Simulated
+P0408,Sapphire,Facebook,11.11 Sale,Reel,Unstitched Suit,1055,138,53,17911.0,6,2026-10-06,Rawalpindi,,Simulated
+P0409,Sapphire,Facebook,Mid-Season Sale,Reel,Ready-to-Wear,1880,296,160,25830.0,6,2026-07-29,Multan,,Simulated
+P0410,Khaadi,Facebook,Mid-Season Sale,Product Photo,Women's Lawn Suit,197,47,18,4510.0,7,2026-06-13,Peshawar,,Simulated
+P0411,Sapphire,Facebook,Ramadan Collection,Reel,Unstitched Suit,649,82,64,,28,2026-01-25,Karachi,,Simulated
+P0412,Gul Ahmed,Facebook,Ramadan Collection,Product Photo,Ready-to-Wear,781,59,70,,10,2026-09-12,Sialkot,,Simulated
+P0413,Gul Ahmed,Instagram,11.11 Sale,Influencer Post,Ready-to-Wear,2305,385,84,34558.0,4,2026-08-19,Rawalpindi,,Simulated
+P0414,Sapphire,Instagram,Ramadan Collection,Reel,Women's Lawn Suit,1362,91,105,22919.0,25,2026-05-02,Islamabad,,Simulated
+P0415,Khaadi,Instagram,Eid Collection,Styling Video,Women's Lawn Suit,913,133,25,15925.0,10,2026-07-21,Rawalpindi,,Simulated
+P0416,Sapphire,Facebook,Eid Collection,Sale Announcement,Ready-to-Wear,1496,208,160,24747.0,5,2026-03-07,Sialkot,,Simulated
+P0417,Gul Ahmed,Facebook,New Arrivals,Influencer Post,Ready-to-Wear,1157,160,142,17099.0,10,2026-05-27,Faisalabad,,Simulated
+P0418,Khaadi,Facebook,Influencer Edit,Influencer Post,Unstitched Suit,541,38,34,,10,2026-03-22,Sialkot,,Simulated
+P0419,Sapphire,TikTok,New Arrivals,Product Photo,Unstitched Suit,1254,235,193,23343.0,30,2026-07-11,Peshawar,,Simulated
+P0420,Khaadi,Instagram,Ramadan Collection,Influencer Post,Ready-to-Wear,1823,220,175,23884.0,11,2026-01-07,Rawalpindi,,Simulated
+P0421,Sapphire,Facebook,Eid Collection,Reel,Ready-to-Wear,542,182,90,20180.0,12,2026-01-24,Rawalpindi,,Simulated
+P0422,Khaadi,Instagram,Lawn Launch,Influencer Post,Ready-to-Wear,813,188,73,27804.0,2,2026-01-02,Faisalabad,,Simulated
+P0423,Khaadi,Instagram,12.12 Winter Edit,Sale Announcement,Ready-to-Wear,191,46,38,7318.0,12,2026-07-11,Sialkot,,Simulated
+P0424,Sapphire,Facebook,Mid-Season Sale,Carousel,Unstitched Suit,461,88,46,,22,2026-08-25,Sialkot,,Simulated
+P0425,Gul Ahmed,Instagram,12.12 Winter Edit,Styling Video,Ready-to-Wear,1330,160,66,42593.0,15,2026-10-12,Karachi,,Simulated
+P0426,Gul Ahmed,Facebook,Eid Collection,Influencer Post,Unstitched Suit,527,179,39,16450.0,28,2026-03-25,Lahore,,Simulated
+P0427,Khaadi,TikTok,Eid Collection,Reel,Women's Lawn Suit,1864,157,235,51208.0,19,2026-08-12,Peshawar,,Simulated
+P0428,Sapphire,Instagram,Ramadan Collection,Product Photo,Women's Lawn Suit,513,24,68,7815.0,17,2026-06-20,Multan,,Simulated
+P0429,Sapphire,Instagram,Ramadan Collection,Reel,Ready-to-Wear,1918,204,59,24804.0,11,2026-10-17,Rawalpindi,,Simulated
+P0430,Khaadi,TikTok,12.12 Winter Edit,Reel,Ready-to-Wear,1021,177,229,28917.0,12,2026-08-20,Faisalabad,,Simulated
+P0431,Sapphire,Facebook,Mid-Season Sale,Sale Announcement,Women's Lawn Suit,867,63,99,12744.0,25,2026-04-04,Faisalabad,,Simulated
+P0432,Sapphire,Instagram,Influencer Edit,Reel,Ready-to-Wear,1702,162,274,58243.0,14,2026-06-09,Sialkot,,Simulated
+P0433,Sapphire,Instagram,Ramadan Collection,Carousel,Unstitched Suit,573,63,37,8665.0,27,2026-05-30,Faisalabad,,Simulated
+P0434,Sapphire,Facebook,Influencer Edit,Carousel,Unstitched Suit,207,15,23,5493.0,4,2026-08-31,Peshawar,,Simulated
+P0435,Khaadi,Facebook,Mid-Season Sale,Reel,Women's Lawn Suit,1322,66,138,,11,2026-10-27,Sialkot,,Simulated
+P0436,Sapphire,Instagram,Lawn Launch,Reel,Unstitched Suit,862,118,100,17547.0,23,2026-06-26,Faisalabad,,Simulated
+P0437,Gul Ahmed,Facebook,12.12 Winter Edit,Influencer Post,Ready-to-Wear,1025,147,216,,22,2026-02-23,Lahore,,Simulated
+P0438,Sapphire,Facebook,Ramadan Collection,Sale Announcement,Women's Lawn Suit,773,141,90,12444.0,24,2026-09-03,Peshawar,,Simulated
+P0439,Sapphire,TikTok,Eid Collection,Influencer Post,Unstitched Suit,1743,91,208,30030.0,19,2026-04-24,Karachi,,Simulated
+P0440,Sapphire,Instagram,Mid-Season Sale,Carousel,Unstitched Suit,930,85,38,31853.0,27,2026-05-23,Faisalabad,,Simulated
+P0441,Khaadi,TikTok,Eid Collection,Reel,Unstitched Suit,2173,363,225,31588.0,4,2026-05-17,Multan,,Simulated
+P0442,Sapphire,TikTok,Lawn Launch,Reel,Ready-to-Wear,2494,287,273,31752.0,21,2026-07-16,Islamabad,,Simulated
+P0443,Khaadi,Facebook,Ramadan Collection,Styling Video,Ready-to-Wear,1351,154,31,,8,2026-04-26,Rawalpindi,,Simulated
+P0444,Sapphire,Instagram,11.11 Sale,Product Photo,Unstitched Suit,439,29,49,7268.0,13,2026-06-03,Karachi,,Simulated
+P0445,Sapphire,TikTok,Mid-Season Sale,Reel,Women's Lawn Suit,1267,249,197,23788.0,16,2026-05-31,Faisalabad,,Simulated
+P0446,Sapphire,Facebook,11.11 Sale,Influencer Post,Ready-to-Wear,1496,137,105,,4,2026-08-17,Karachi,,Simulated
+P0447,Khaadi,Instagram,Ramadan Collection,Sale Announcement,Unstitched Suit,738,124,102,17853.0,24,2026-06-15,Rawalpindi,,Simulated
+P0448,Sapphire,TikTok,New Arrivals,Reel,Unstitched Suit,370,53,78,10896.0,20,2026-01-16,Faisalabad,,Simulated
+P0449,Sapphire,Instagram,Ramadan Collection,Reel,Ready-to-Wear,1280,96,118,20707.0,16,2026-03-18,Faisalabad,,Simulated
+P0450,Sapphire,Instagram,11.11 Sale,Reel,Women's Lawn Suit,406,40,25,45212.0,29,2026-04-03,Faisalabad,,Simulated
+P0451,Sapphire,TikTok,12.12 Winter Edit,Reel,Women's Lawn Suit,2402,593,454,54755.0,9,2026-06-18,Sialkot,,Simulated
+P0452,Khaadi,Instagram,New Arrivals,Influencer Post,Women's Lawn Suit,1239,129,93,14863.0,23,2026-01-07,Faisalabad,,Simulated
+P0453,Sapphire,Instagram,Ramadan Collection,Reel,Unstitched Suit,927,118,66,18462.0,18,2026-03-05,Multan,,Simulated
+P0454,Khaadi,Instagram,11.11 Sale,Reel,Women's Lawn Suit,4713,305,367,59416.0,30,2026-10-25,Lahore,,Simulated
+P0455,Sapphire,Facebook,12.12 Winter Edit,Styling Video,Unstitched Suit,2314,190,169,27821.0,17,2026-09-18,Rawalpindi,,Simulated
+P0456,Sapphire,Instagram,Influencer Edit,Sale Announcement,Unstitched Suit,907,169,144,16061.0,23,2026-03-28,Lahore,,Simulated
+P0457,Sapphire,Instagram,Mid-Season Sale,Product Photo,Ready-to-Wear,439,16,28,6175.0,15,2026-08-20,Peshawar,,Simulated
+P0458,Sapphire,Instagram,New Arrivals,Product Photo,Unstitched Suit,495,90,57,11182.0,26,2026-02-26,Sialkot,,Simulated
+P0459,Sapphire,Instagram,11.11 Sale,Reel,Ready-to-Wear,1632,111,38,23061.0,10,2026-06-13,Sialkot,,Simulated
+P0460,Khaadi,TikTok,Influencer Edit,Styling Video,Ready-to-Wear,865,171,158,22167.0,2,2026-08-06,Islamabad,,Simulated
+P0461,Sapphire,Facebook,Lawn Launch,Influencer Post,Women's Lawn Suit,1528,76,78,19862.0,16,2026-10-04,Rawalpindi,,Simulated
+P0462,Sapphire,Facebook,Mid-Season Sale,Product Photo,Ready-to-Wear,480,36,10,7005.0,22,2026-10-22,Multan,,Simulated
+P0463,Khaadi,Facebook,11.11 Sale,Reel,Women's Lawn Suit,269,93,90,10175.0,23,2026-10-27,Sialkot,,Simulated
+P0464,Khaadi,Instagram,Influencer Edit,Styling Video,Unstitched Suit,954,86,128,16025.0,7,2026-01-12,Karachi,,Simulated
+P0465,Gul Ahmed,Instagram,Influencer Edit,Sale Announcement,Unstitched Suit,2873,169,339,52866.0,6,2026-07-18,Sialkot,,Simulated
+P0466,Khaadi,TikTok,Influencer Edit,Styling Video,Unstitched Suit,2621,448,118,41195.0,3,2026-06-01,Rawalpindi,,Simulated
+P0467,Gul Ahmed,Facebook,New Arrivals,Reel,Ready-to-Wear,372,58,43,,7,2026-05-17,Multan,,Simulated
+P0468,Sapphire,Facebook,Mid-Season Sale,Styling Video,Ready-to-Wear,210,78,53,,29,2026-09-15,Islamabad,,Simulated
+P0469,Sapphire,Instagram,Lawn Launch,Product Photo,Unstitched Suit,1219,173,64,23554.0,9,2026-07-14,Peshawar,,Simulated
+P0470,Khaadi,TikTok,Ramadan Collection,Reel,Women's Lawn Suit,827,113,71,22542.0,9,2026-09-12,Rawalpindi,,Simulated
+P0471,Sapphire,Instagram,Ramadan Collection,Product Photo,Women's Lawn Suit,1706,107,71,25710.0,20,2026-06-14,Lahore,,Simulated
+P0472,Sapphire,Instagram,Eid Collection,Reel,Women's Lawn Suit,1932,277,240,50987.0,18,2026-10-26,Peshawar,,Simulated
+P0473,Sapphire,TikTok,Ramadan Collection,Reel,Women's Lawn Suit,6220,280,446,79830.0,4,2026-05-16,Islamabad,,Simulated
+P0474,Sapphire,TikTok,Ramadan Collection,Product Photo,Unstitched Suit,1605,124,174,21793.0,14,2026-06-23,Islamabad,,Simulated
+P0475,Sapphire,Instagram,Mid-Season Sale,Product Photo,Women's Lawn Suit,516,54,31,15413.0,2,2026-07-30,Peshawar,,Simulated
+P0476,Khaadi,TikTok,Influencer Edit,Reel,Women's Lawn Suit,2495,508,326,47827.0,11,2026-08-10,Rawalpindi,,Simulated
+P0477,Sapphire,Instagram,Influencer Edit,Styling Video,Unstitched Suit,1713,246,181,34958.0,26,2026-09-24,Rawalpindi,,Simulated
+P0478,Sapphire,Instagram,Mid-Season Sale,Product Photo,Women's Lawn Suit,563,122,43,18657.0,8,2026-02-10,Islamabad,,Simulated
+P0479,Gul Ahmed,TikTok,12.12 Winter Edit,Reel,Ready-to-Wear,2212,348,345,60410.0,19,2026-01-18,Islamabad,,Simulated
+P0480,Sapphire,Instagram,11.11 Sale,Influencer Post,Women's Lawn Suit,2801,628,190,61991.0,29,2026-07-03,Faisalabad,,Simulated
+P0481,Sapphire,Instagram,New Arrivals,Product Photo,Women's Lawn Suit,198,23,16,2491.0,28,2026-02-25,Islamabad,,Simulated
+P0482,Sapphire,Facebook,11.11 Sale,Reel,Ready-to-Wear,463,45,71,,14,2026-08-22,Faisalabad,,Simulated
+P0483,Sapphire,Instagram,11.11 Sale,Reel,Unstitched Suit,497,47,26,6188.0,16,2026-07-09,Rawalpindi,,Simulated
+P0484,Khaadi,TikTok,Eid Collection,Influencer Post,Women's Lawn Suit,2179,216,266,42479.0,15,2026-10-04,Faisalabad,,Simulated
+P0485,Sapphire,Instagram,Eid Collection,Styling Video,Ready-to-Wear,1391,68,42,26857.0,20,2026-05-27,Rawalpindi,,Simulated
+P0486,Sapphire,Instagram,Eid Collection,Styling Video,Women's Lawn Suit,2752,534,363,45777.0,20,2026-10-27,Islamabad,,Simulated
+P0487,Sapphire,Facebook,11.11 Sale,Reel,Women's Lawn Suit,960,268,81,23164.0,21,2026-03-11,Rawalpindi,,Simulated
+P0488,Sapphire,TikTok,New Arrivals,Styling Video,Women's Lawn Suit,1199,232,155,22742.0,5,2026-03-04,Rawalpindi,,Simulated
+P0489,Khaadi,Facebook,New Arrivals,Product Photo,Women's Lawn Suit,263,54,21,4751.0,18,2026-01-09,Multan,,Simulated
+P0490,Khaadi,Facebook,Lawn Launch,Influencer Post,Unstitched Suit,1487,141,93,22129.0,14,2026-03-24,Karachi,,Simulated
+P0491,Sapphire,TikTok,11.11 Sale,Carousel,Women's Lawn Suit,1472,120,161,21219.0,18,2026-09-23,Rawalpindi,,Simulated
+P0492,Gul Ahmed,Instagram,Eid Collection,Reel,Ready-to-Wear,2027,249,136,39951.0,14,2026-05-08,Karachi,,Simulated
+P0493,Sapphire,Facebook,Ramadan Collection,Reel,Unstitched Suit,364,18,8,4971.0,24,2026-02-08,Multan,,Simulated
+P0494,Khaadi,Instagram,Ramadan Collection,Product Photo,Ready-to-Wear,754,92,20,10550.0,4,2026-09-23,Islamabad,,Simulated
+P0495,Sapphire,Instagram,Mid-Season Sale,Product Photo,Ready-to-Wear,355,42,27,5330.0,20,2026-03-29,Peshawar,,Simulated
+P0496,Sapphire,Facebook,11.11 Sale,Product Photo,Women's Lawn Suit,1322,123,170,21622.0,18,2026-02-14,Peshawar,,Simulated
+P0497,Sapphire,Facebook,Ramadan Collection,Product Photo,Ready-to-Wear,305,29,38,5928.0,30,2026-03-02,Sialkot,,Simulated
+P0498,Sapphire,TikTok,Lawn Launch,Sale Announcement,Ready-to-Wear,2639,314,189,33975.0,19,2026-03-28,Sialkot,,Simulated
+P0499,Sapphire,Instagram,New Arrivals,Styling Video,Unstitched Suit,1624,385,120,33672.0,7,2026-01-20,Islamabad,,Simulated
+P0500,Sapphire,Facebook,Ramadan Collection,Carousel,Women's Lawn Suit,514,134,59,12395.0,30,2026-04-27,Islamabad,,Simulated
